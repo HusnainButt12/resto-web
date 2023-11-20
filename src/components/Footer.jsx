@@ -85,7 +85,7 @@ const Footer = () => {
         <p>
           <p className=" text-center py-4">
             @copyright developed by
-            <span className=" text-brightColor"> Foodie Web</span> |
+            <span className=" text-brightColor"> alpha coders</span> |
             All rights reserved
           </p>
         </p>
